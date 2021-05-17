@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.hidden{
+  display: none !important;
+}
+
+.card{
+  padding: 1em;
+  margin: 1em;
+}
+
+.button{
+  margin: 1em !important;
+}
+
+.table{
+  margin: 3em;
+}
+
+.newFormButton{
+    display:block !important;
+    margin-left:auto !important;
+    margin-right: 0 !important;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
